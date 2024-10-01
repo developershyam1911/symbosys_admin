@@ -17,7 +17,7 @@ import one10 from "../assets/icon/10.png";
 const BusinessAnalysis = () => {
   const [box, setBox] = useState([
     {
-      title: "Sashboard",
+      title: "Dashboard",
       quatity: "70",
       url: "https://img.icons8.com/office/256/booking.png",
       href: "/dashboard/dash_board",
