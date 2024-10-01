@@ -218,7 +218,7 @@ const Dashboard = () => {
 
         <footer className="footer text-center">
           All Rights Reserved by Symbosys. Designed and Developed by
-          <a href="#"> Vaishnavi Technology</a>.
+          <a href="https://symbosys.com/"> Symbosys</a>.
         </footer>
       </div>
     </>
